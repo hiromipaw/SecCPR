@@ -4,6 +4,10 @@ SecCPR provide simple security guidelines that can help organisations get protec
 
 You can contribute to this repository by sending a Pull Request.
 
+## Preamble
+
+... 
+
 ## Topics
 
 ### [General](http://hiro7.eu/SecCPR/general)
