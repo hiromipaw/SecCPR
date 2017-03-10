@@ -6,7 +6,9 @@ You can contribute to this repository by sending a Pull Request.
 
 ## Topics
 
-### [Network security](/network)
-### [Email security](/email)
-### [Mobile security](/mobile)
-### [Social media security](/social)
+### [General](http://hiro7.eu/SecCPR/general)
+### [Network](http://hiro7.eu/SecCPR/network)
+### [Email](http://hiro7.eu/SecCPR/email)
+### [Mobile](http://hiro7.eu/SecCPR/mobile)
+### [Social media](http://hiro7.eu/SecCPR/social)
+
