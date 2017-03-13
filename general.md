@@ -20,16 +20,22 @@ If you want to make a password secure add some randomness. Be a little creative,
 
 Also it is almost impossible that you can remember all the passwords you use. Therefore you can consider to use a password manager.
 
-### 2. Enable 2-FA for all your accounts (where possible)
+### 2. Enable 2-FA for all your accounts (where possible).
 
 2-FA is an authentication method that adds an additional level of security when you login into your account. In practice it only asks for a security code in addition to your password.
 
 To find out more about 2-FA you can visit: [https://en.wikipedia.org/wiki/Multi-factor_authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
 
-### Use a backup solution. Better if encrypted
+### 3. Use a backup solution. Better if encrypted.
 
 There is always a possibility that you can be hacked and have to delete everything on your devices and install everything again. Consider using a backup solution. Better if encrypted. Even better if they adopt a 0-knowledge policy.
 
 0-Knowledge means that all your data is encrypted with a key you only know and the company hosting your files cannot possibly know what you are storing.
+
+We now list a number of cloud backup solutions that use a 0-knowledge policy. Note that this is not an endorsment.
+
+- [Spideroak](https://spideroak.com/)
+- [Sync](https://www.sync.com)
+- [PCloud](https://www.pcloud.com)
 
 
