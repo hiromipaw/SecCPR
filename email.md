@@ -32,3 +32,8 @@ The DNC platform was hacked with a password change request. Never fall for email
 If you need to subscribe some sensitive service, considering using a third email and be very very careful about what links you open and attachments you download.
 
 ### How to recognise a fishing attempt.
+
+## How to choose an email provider
+
+## How to use PGP/GPG
+
