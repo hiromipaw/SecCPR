@@ -38,4 +38,5 @@ We now list a number of cloud backup solutions that use a 0-knowledge policy. No
 - [Sync](https://www.sync.com)
 - [PCloud](https://www.pcloud.com)
 
+## How to use a yubikey
 
